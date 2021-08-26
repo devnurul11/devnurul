@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, My Name is Nurul Islam
+#### I am a professional Web developer and designer
+![I am a professional Web developer and designer](https://devnurul.me/wp-content/uploads/2021/08/Nurul-Banner.png)
 
 
-**devnurul/devnurul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS / Bootstrap/ JS / WordPress
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on LFWF Academy as teacher 
+- 🌱 I’m currently learning JS and PHP 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/devnurul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nurul-islam-235a221a9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/noororbit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/nurul_islam0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/c/FreelancerNoor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devnurul.me)  
+
+
 
