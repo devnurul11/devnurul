@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Nurul Islam
 #### I am a professional Web developer and designer
-![I am a professional Web developer and designer](https://devnurul.me/wp-content/uploads/2021/08/Nurul-Banner.png)
+![I am a professional Web developer and designer](https://devnurul.me/wp-content/uploads/2022/09/Untitled-design-1.jpg)
 
 
 Skills: HTML / CSS / Bootstrap/ JS / WordPress
