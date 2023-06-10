@@ -2,10 +2,7 @@
 ### Hi there 👋, my name is Nurul Islam
 #### I am a professional Web developer (Laravel) and designer and expert of WordPress
 
-
-I am a professional Web developer (Laravel) and designer and expert of WordPress
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: HTML / CSS / JS / PHP /My SQL / Laravel / WordPress Development 
 
 - 🔭 I’m currently working on in fiverr marketplace label two seller as a wordpress developer 
 - 🌱 I’m currently learning laravel 10 
